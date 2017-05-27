@@ -7,5 +7,5 @@ Here `B` & `E` represent Bengali and English charecter containing file respectiv
 Send a pull request to contribute!
 
 ----
-Licensed under the MIT License
+Licensed under the MIT License  
 Copyright (c) 2017 20th Batch, Dept of CSE, University of Dhaka
